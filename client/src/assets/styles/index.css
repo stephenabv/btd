@@ -1,0 +1,19 @@
+.main{
+    margin-top: 3rem;
+}
+
+.hr-length{
+    width: 25%;
+    margin: 0 auto;
+    font-weight: bold;
+    border-top: 7px solid blue;
+    padding-bottom: 4rem;
+}
+
+.footer{
+    margin-top: 2rem;
+}
+
+p{
+    font-size: 15px;
+}
